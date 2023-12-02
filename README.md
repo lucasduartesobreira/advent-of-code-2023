@@ -1,3 +1,3 @@
 # Solution to Advent of Code 2023
 
-- [  ] Day 1
+- [x] Day 1
